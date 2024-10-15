@@ -1,26 +1,13 @@
 /venv
-/paper
 
 **/.DS_Store
 
-/flower
 .env
 
 # Ignore compiled Python files
 **/__pycache__/
 **/*.py[cod]
 
-# Ignore virtual environments
-venv/
-heterofl_on_simulation/venv/
-
-# Ignore data and output directories
-heterofl_on_simulation/data/
-heterofl_on_simulation/outputs/
-
-llm_reasoning_benchmark/OpportunityUCIDataset/
-llm_reasoning_benchmark/WEEEDataset/
-llm_reasoning_benchmark/SphereNetworkDataset/
 # Optionally, ignore IDE or editor-specific files
 .vscode/
 *.swp
