@@ -1,2 +1,0 @@
-taskset -c 0 python client_pytorch.py --cid=5 --num_clients=40 --dataset=wisdm_watch --partition_type=user & taskset -c 1 python client_pytorch.py --cid=15 --num_clients=40 --dataset=wisdm_watch --partition_type=user & taskset -c 2 python client_pytorch.py --cid=25 --num_clients=40 --dataset=wisdm_watch --partition_type=user & taskset -c 3 python client_pytorch.py --cid=35 --num_clients=40 --dataset=wisdm_watch --partition_type=user &
-
