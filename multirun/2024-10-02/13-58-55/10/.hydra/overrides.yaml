@@ -1,4 +1,0 @@
-- poisoning_conf.position.rate=0.3
-- poisoning_conf.position.sequence_length=40
-- trial=3
-- gpt_model=gpt-4o-mini

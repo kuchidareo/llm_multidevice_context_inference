@@ -1,4 +1,0 @@
-- gpt_model=gpt-3.5-turbo
-- trial=5
-- poisoning_conf.position.in_column=real
-- poisoning_conf.position.rate=0.1

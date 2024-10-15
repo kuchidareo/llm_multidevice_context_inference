@@ -1,4 +1,0 @@
-- poisoning_conf.position.rate=0.3
-- poisoning_conf.position.sequence_length=20
-- trial=2
-- gpt_model=gpt-4o-2024-08-06

@@ -1,4 +1,0 @@
-- gpt_model=gpt-4o-mini
-- trial=4
-- poisoning_conf.position.in_column=real
-- poisoning_conf.position.rate=0.1
